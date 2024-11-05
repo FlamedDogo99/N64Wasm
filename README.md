@@ -1,4 +1,4 @@
-# N64 Wasm
+# N64 Wasm Fork
 Thanks for checking out N64 Wasm! An N64 emulator that runs in the browser. It is a port of the excellent RetroArch ParaLLEl Core to WebAssembly. This project started because I wanted to have a well playing open-source N64 emulator designed for the web. I also wanted to learn OpenGL and this was a good way to dive in. Game compatibility is decent with a good portion of the 3D games playable and at full speed on a mid-range computer. Also works on the iPhone 13 and Xbox Series X Browser.
 
 Supports the following features -
