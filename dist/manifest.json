@@ -19,7 +19,6 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
   "display": "fullscreen",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
